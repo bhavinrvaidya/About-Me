@@ -44,7 +44,3 @@ With hands-on experience troubleshooting complex electrical, mechanical, and hyd
 ### ✍️ Random Quote
 ***Application drives solutions - Bhavin Vaidya***
 
----
-[![](https://komarev.com/ghpvc/?username=bhavinrvaidya&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
