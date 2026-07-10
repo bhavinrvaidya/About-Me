@@ -39,7 +39,7 @@ With hands-on experience troubleshooting complex electrical, mechanical, and hyd
 ---
 
 ### 🤝 Connect With Me
-*   💼 [LinkedIn](www.linkedin.com/in/vaidya-bhavin)
+*   💼 [LinkedIn](https://www.linkedin.com/in/vaidya-bhavin/)
 *   💬 Ask me about: **Data-driven problem solving, BI dashboard design, or how operational data connects to physical systems.**
 
 ## 🌐 Socials:
