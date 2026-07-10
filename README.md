@@ -56,6 +56,8 @@ With hands-on experience troubleshooting complex electrical, mechanical, and hyd
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+**Application drives solutions - Bhavin Vaidya**
+
 ---
 [![](https://komarev.com/ghpvc/?username=bhavinrvaidya&icon=0&color=0)](https://visitcount.itsvg.in)
 
