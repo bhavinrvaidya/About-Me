@@ -50,9 +50,7 @@ With hands-on experience troubleshooting complex electrical, mechanical, and hyd
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhavinrvaidya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Quote
-***My boss asked for a quick analysis. I asked her to define 'quick'.***
-
-**Application drives solutions - Bhavin Vaidya**
+***Application drives solutions - Bhavin Vaidya***
 
 ---
 [![](https://komarev.com/ghpvc/?username=bhavinrvaidya&icon=0&color=0)](https://visitcount.itsvg.in)
